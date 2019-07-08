@@ -1,3 +1,4 @@
 ## 24 projects
-**Easy: **
+**Easy:**
+
 1.IRIS
