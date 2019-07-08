@@ -1,3 +1,3 @@
-24 projects
-## Easy:
-*** 1.IRIS ***
+## 24 projects
+**Easy:**
+*1.IRIS*
