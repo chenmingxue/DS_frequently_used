@@ -4,3 +4,4 @@
 2. Loan Prediction, classification (2)
 3. Big Market Sales prediction, linear regression
 4. Boston house price prediction, data load from jupyter
+5. Time Series Analysis, (static statistics)
