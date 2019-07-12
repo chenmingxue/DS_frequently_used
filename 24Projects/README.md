@@ -5,3 +5,4 @@
 3. Big Market Sales prediction, linear regression
 4. Boston house price prediction, data load from jupyter
 5. Time Series Analysis, (static statistics)
+6. Wine quality analysis and prediction
