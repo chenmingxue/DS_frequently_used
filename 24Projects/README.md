@@ -26,8 +26,8 @@ This dataset is based on an evaluation form filled out by students for different
 This is a fairly straightforward problem and is ideal for people starting off with data science. It is a regression problem.  The dataset has 25,000 rows and 3 columns (index, height and weight).
 
 ### Medium:
-1. Black Friday Sales Dataset\
+9. Black Friday Sales Dataset\
 This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset to explore and expand your feature engineering skills and day to day understanding from multiple shopping experiences. This is a regression problem. The dataset has 550,069 rows and 12 columns.
 
-2. Human Activity Recognition Dataset\
+10. Human Activity Recognition Dataset, data group, visualization and LSTM Deeplearning\
 This data set is collected from recordings of 30 human subjects captured via smartphones enabled with embedded inertial sensors.This is a multi-classification problem. The data set has 10,299 rows and 561 columns.
