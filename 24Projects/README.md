@@ -29,3 +29,5 @@ This is a fairly straightforward problem and is ideal for people starting off wi
 1. Black Friday Sales Dataset\
 This dataset comprises of sales transactions captured at a retail store. It’s a classic dataset to explore and expand your feature engineering skills and day to day understanding from multiple shopping experiences. This is a regression problem. The dataset has 550,069 rows and 12 columns.
 
+2. Human Activity Recognition Dataset\
+This data set is collected from recordings of 30 human subjects captured via smartphones enabled with embedded inertial sensors.This is a multi-classification problem. The data set has 10,299 rows and 561 columns.
