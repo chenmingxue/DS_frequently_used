@@ -34,3 +34,6 @@ This data set is collected from recordings of 30 human subjects captured via sma
 
 11. Text Mining Dataset. Multi-label classification.\
 This dataset text mining and multi-lable classification practice from Kaggle.
+
+12. Bike rental prediction on trip history dataset. Data analysis, visualization, encoding on categorical data, regression \
+This dataset comes from a bike sharing service in the United States. This dataset requires you to exercise your pro data munging skills. The data is provided quarter-wise from 2010 (Q4) onwards. Each file has 7 columns. It is a classification problem.
