@@ -31,3 +31,6 @@ This dataset comprises of sales transactions captured at a retail store. It’s 
 
 10. Human Activity Recognition Dataset, data group, visualization and LSTM Deeplearning\
 This data set is collected from recordings of 30 human subjects captured via smartphones enabled with embedded inertial sensors.This is a multi-classification problem. The data set has 10,299 rows and 561 columns.
+
+11. Text Mining Dataset. Multi-label classification.\
+This dataset text mining and multi-lable classification practice from Kaggle.
