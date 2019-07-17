@@ -37,3 +37,6 @@ This dataset text mining and multi-lable classification practice from Kaggle.
 
 12. Bike rental prediction on trip history dataset. Data analysis, visualization, encoding on categorical data, regression \
 This dataset comes from a bike sharing service in the United States. This dataset requires you to exercise your pro data munging skills. The data is provided quarter-wise from 2010 (Q4) onwards. Each file has 7 columns. It is a classification problem.
+
+13. Million Song Dataset, Predict release year of the song.\
+Did you know data science can be used in the entertainment industry also? Do it yourself now. This data set puts forward a regression task. It consists of 5,15,345 observations and 90 variables. However, this is just a tiny subset of the original database of data about a million songs.
