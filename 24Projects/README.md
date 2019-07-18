@@ -40,3 +40,6 @@ This dataset comes from a bike sharing service in the United States. This datase
 
 13. Million Song Dataset, Predict release year of the song.\
 Did you know data science can be used in the entertainment industry also? Do it yourself now. This data set puts forward a regression task. It consists of 5,15,345 observations and 90 variables. However, this is just a tiny subset of the original database of data about a million songs.
+
+14. Census Income Dataset, imbalanced dataset\
+It’s an imbalanced classification and a classic machine learning problem. You know, machine learning is being extensively used to solve imbalanced problems such as cancer detection, fraud detection etc. It’s time to get your hands dirty. The data set has 48,842 rows and 14 columns.
