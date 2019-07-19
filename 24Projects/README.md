@@ -43,3 +43,8 @@ Did you know data science can be used in the entertainment industry also? Do it 
 
 14. Census Income Dataset, imbalanced dataset\
 It’s an imbalanced classification and a classic machine learning problem. You know, machine learning is being extensively used to solve imbalanced problems such as cancer detection, fraud detection etc. It’s time to get your hands dirty. The data set has 48,842 rows and 14 columns.
+
+15. Movie Lens Dataset, similarity of data point\
+Have you built a recommendation system yet? Here’s your chance! This dataset is one of the most popular & quoted datasets in the data science industry. It is available in various dimensions. Here I’ve used a fairly small size. It has 1 million ratings from 6,000 users on 4,000 movies.
+
+
